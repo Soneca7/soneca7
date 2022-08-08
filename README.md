@@ -12,7 +12,7 @@
 -   👨‍💻 C# / Js / Batch
 -   ✏️ Alone now I am my intimate enemy.
 -   👻 I'm a cheat developer.
--   💭 If you need me, contact me on discord: 7⛧#0007
+-   💭 If you need me, contact me on discord: soneca7#5501
 
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
