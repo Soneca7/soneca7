@@ -4,7 +4,7 @@
 ## 💻 Tech Stack  
 **Languages:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
 
 - **Game Hacking Enthusiast**
 - **Discord** 171z (i lost my old account :( RIP sonecawtf)
