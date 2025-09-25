@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
 
 - **Game Hacking Enthusiast**
-- **Discord** 171z (i lost my old account :(  @sonecawtf
+- **Discord** 171z (i lost my old account @sonecawtf)
 ---
 
 *"Always learning, always building."*  
